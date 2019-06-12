@@ -8,7 +8,7 @@ FCSI is a MATLAB-based package of the **Fast Compressive Sensing Imaging algorit
 
 - See `INSTALL.md` for installation instruction.
 
-- See the following paper for details of FCSI.
+- For details of FCSI, see
 
 	- [*Novel methods to accelerate CS radar imaging by NUFFT*](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6828744), S. Sun, G. Zhu, T. Jin, IEEE Transactions on Geoscience and Remote Sensing, 53 (1), 557-566, 2015
 
