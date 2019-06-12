@@ -60,6 +60,6 @@ colormap jet
 axis equal tight
 
 figure
-plot(info.tauhis,info.rNorm2)
+plot(info.tauhis, info.rNorm2)
 xlabel('\tau', 'FontName', 'Times New Roman', 'FontSize', 10)
 ylabel('||r||_2', 'FontName', 'Times New Roman', 'FontSize', 10)

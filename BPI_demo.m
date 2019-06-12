@@ -27,9 +27,10 @@ Ant{1} = TA; Ant{2} = RA;
 
 %% show the imaging result
 figure; 
-imagesc(xx, yy, abs(I)); grid on
+imagesc(xx, yy, abs(I)); grid on; colorbar
 title('BP Imaging', 'FontName',  'Times New Roman',  'FontSize',  10)
 set(gca, 'YDir', 'normal',  'FontName',  'Times New Roman',  'FontSize',  10);
 xlabel('Azimuth /m',  'FontName',  'Times New Roman',  'FontSize',  10)
 ylabel('Range /m',  'FontName',  'Times New Roman',  'FontSize',  10)
 axis equal tight
+colormap jet
