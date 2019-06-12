@@ -4,7 +4,7 @@ FCSI
 Introduction
 ------------
 
-FCSI is a MATLAB-based package of the **Fast Compressive Sensing Imaging algorithm** based on non-uniform fast fourier transform. Back propagation imaging algorithm is also given for comparison.
+FCSI is a MATLAB-based package of the **Fast Compressive Sensing Imaging algorithm** based on Non-Uniform Fast Fourier Transform. Back propagation imaging algorithm is also given for comparison.
 
 - See `INSTALL.md` for installation instruction.
 
