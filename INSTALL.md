@@ -8,5 +8,5 @@ System requirements
 
 How to run FCSI
 ---------------
-1. Run `Sparse_array_NUFFT_SPGI.m` to do fast compressive sensing imaging with `realdata_free.mat`.
+1. Run `FCSI_demo.m.m` to do fast compressive sensing imaging with `realdata_free.mat`.
 2. Run `BPI_demo.m` to do backpropagation imaging for comparison.
