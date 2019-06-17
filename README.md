@@ -8,7 +8,7 @@ FCSI is a MATLAB-based package of the **Fast Compressive Sensing Imaging algorit
 
 - See `INSTALL.md` for installation instruction.
 
-- We would be delighted to hear from you if you find FCSI useful, or if you have any suggestions, contributions, or bug reports. Please send these to shilongsun@icloud.com
+- We would be delighted to hear from you if you find FCSI useful, or if you have any suggestions, contributions, or bug reports. Please send these to Shilong Sun (shilongsun@icloud.com)
 
 Citation
 --------
